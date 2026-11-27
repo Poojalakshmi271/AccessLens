@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+*.log
+.env
+data/*.json
+analysis/.ipynb_checkpoints/
+__pycache__/
